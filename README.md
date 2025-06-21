@@ -154,8 +154,4 @@ python main.py
 
 
 
-## 📌 Лицензия
 
-MIT License — см. [LICENSE](LICENSE)
-
----
